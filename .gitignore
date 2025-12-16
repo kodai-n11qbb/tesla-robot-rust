@@ -1,0 +1,11 @@
+# ai models
+*.h5
+*.keras
+*.bin
+
+# python
+/venv
+
+# rust
+/rust/**/target/
+
