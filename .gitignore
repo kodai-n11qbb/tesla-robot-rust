@@ -7,5 +7,5 @@
 /venv
 
 # rust
-/rust/**/target/
+/**/target/
 
